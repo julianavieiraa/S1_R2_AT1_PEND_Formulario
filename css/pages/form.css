@@ -1,0 +1,10 @@
+input.erro {
+  border: 2px solid red;
+}
+
+small.erro {
+  color: red;
+  font-size: 12px;
+  display: block;
+  margin-top: 5px;
+}
