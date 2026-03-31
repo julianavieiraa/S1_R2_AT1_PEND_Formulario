@@ -8,3 +8,15 @@ small.erro {
   display: block;
   margin-top: 5px;
 }
+
+.input__box {
+  position: relative;
+}
+
+.input__box small {
+  position: absolute;
+  bottom: -18px;
+  left: 5px;
+  font-size: 11px;
+  color: red;
+}
